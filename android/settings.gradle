@@ -1,0 +1,3 @@
+rootProject.name = 'Firm_Manager'
+
+include ':app'
